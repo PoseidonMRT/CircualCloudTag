@@ -602,7 +602,6 @@ public class KeywordsFlow extends FrameLayout implements OnGlobalLayoutListener 
 			}
 		}
 		super.dispatchDraw(canvas);
-		canvas.restore();
 	}
 
 	@Override
